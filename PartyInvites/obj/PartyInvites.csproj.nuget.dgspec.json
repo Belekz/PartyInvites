@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "C:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\piete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\obj\\",
+        "outputPath": "C:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

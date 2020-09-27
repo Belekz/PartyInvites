@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+  "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,47 +14392,47 @@
   "RootNamespace": "PartyInvites",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
       "TargetPath": "Views\\Home\\RsvpForm.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Home\\Thanks.cshtml",
       "TargetPath": "Views\\Home\\Thanks.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
       "TargetPath": "Views\\Home\\ListResponses.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\piete\\source\\repos\\PartyInvites\\PartyInvites\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\piete\\Source\\Repos\\PartyInvites\\PartyInvites\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
